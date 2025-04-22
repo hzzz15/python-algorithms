@@ -1,4 +1,5 @@
-## Baekjoon Algorithm Solutions 
+# Baekjoon Algorithm Solutions 
+- 꾸준히 풀면서 알고리즘 실력을 키우는 것이 목표
 
 ## 사용 언어
 - Python
